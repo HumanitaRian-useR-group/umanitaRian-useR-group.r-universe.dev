@@ -1,0 +1,136 @@
+[
+
+  {
+    "package": "robotoolbox",
+    "url": "https://github.com/dickoa/robotoolbox"
+  },
+  {
+    "package": "okapi",
+    "url": "https://github.com/rapidsurveys/okapi"
+  },
+  {
+    "package": "ruODK",
+    "url": "https://github.com/ropensci/ruODK"
+  },
+  {
+    "package": "xlsformfill",
+    "url": "https://github.com/mabafaba/xlsformfill"
+  },
+  {
+    "package": "butteR",
+    "url": "https://github.com/zackarno/butteR"
+  },
+  {
+    "package": "QuestionnaireHTML",
+    "url": "https://github.com/hedibmustapha/QuestionnaireHTML"
+  },
+  {
+    "package": "kobohr_apitoolbox",
+    "url": "https://github.com/ppsapkota/kobohr_apitoolbox"
+  },
+  {
+    "package": "formstools",
+    "url": "https://github.com/ecohealthalliance/formstools"
+  },
+  {
+    "package": "koboAPI",
+    "url": "https://github.com/ElliottMess/koboAPI"
+  },
+  {
+    "package": "kobohr_apitoolbox",
+    "url": "https://github.com/ppsapkota/kobohr_apitoolbox"
+  },
+  {
+    "package": "xlsformr",
+    "url": "https://github.com/rapidsurveys/xlsformr"
+  },
+  {
+    "package": "compareXLSForms",
+    "url": "https://github.com/williameoswald/compareXLSForms"
+  },
+  {
+    "package": "slapaDAP",
+    "url": "https://github.com/zackarno/slapaDAP"
+  },
+  {
+    "package": "odk",
+    "url": "https://github.com/cran/odk"
+  },
+  {
+    "package": "quiveR",
+    "url": "https://github.com/iyedg/quiveR"
+  },
+  {
+    "package": "XlsFormUtil",
+    "url": "https://github.com/unhcr-americas/XlsFormUtil"
+  },
+  {
+    "package": "HighFrequencyChecks",
+    "url": "https://github.com/Edouard-Legoupil/HighFrequencyChecks"
+  },
+  {
+    "package": "kobocruncher",
+    "url": "https://github.com/Edouard-Legoupil/kobocruncher"
+  },
+  {
+    "package": "formstools",
+    "url": "https://github.com/ecohealthalliance/formstools"
+  },
+  {
+    "package": "surveycto",
+    "url": "https://github.com/Waiguru254/surveycto"
+  },
+  {
+    "package": "R-ODK",
+    "url": "https://github.com/Arab-Barometer/R-ODK"
+  },
+
+  {
+    "package": "sitrep",
+    "url": "https://r4epi.github.io/sitrep/"
+  },
+
+  // REACH IMpac suite...
+  {
+    "package": "cleaningtools",
+    "url": "https://github.com/impact-initiatives/cleaningtools"
+  },
+  {
+    "package": "addindicators",
+    "url": "https://github.com/impact-initiatives/addindicators"
+  },
+  {
+    "package": "analysistool",
+    "url": "https://github.com/impact-initiatives/analysistools"
+  },
+  {
+    "package": "presentresults",
+    "url": "https://github.com/impact-initiatives/presentresults"
+  },
+  {
+    "package": "hypegrammaR",
+    "url": "https://github.com/mabafaba/hypegrammaR"
+  },
+  {
+    "package": "kobold",
+    "url": "https://github.com/caldwellst/kobold"
+  },
+  {
+    "package": "mdepriv",
+    "url": "https://github.com/a-benini/mdepriv"
+  },
+  // Data Packages
+  {
+    "package": "rhdx",
+    "url": "https://github.com/dickoa/rhdx"
+  },
+  {
+    "package": "refugees",
+    "url": "https://github.com/PopulationStatistics/refugees"
+  },
+  {
+    "package": "unhcrdatapackage",
+    "url": "https://github.com/Edouard-Legoupil/unhcrdatapackage"
+  }
+
+]
